@@ -37,6 +37,7 @@ class Atm
 			case 5 :
 				{
 					System.exit(0);
+					System.out.println("Thank You!");
 				}
 			}
 		}
