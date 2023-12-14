@@ -1,5 +1,6 @@
+package user;
 import java.util.Scanner;
-class User 
+public class User 
 {
 	static String name = "Abc";
 	static int age = 25;

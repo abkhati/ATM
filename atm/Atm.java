@@ -1,5 +1,9 @@
+package atm;
 import java.util.Scanner;
-class Atm 
+import user.User;
+import user.UserC;
+
+class Atm extends UserC
 {
 	public static void main(String[] args) 
 	{
